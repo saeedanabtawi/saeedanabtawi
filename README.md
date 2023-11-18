@@ -5,7 +5,7 @@
   
 - 👨🏽‍💻 I’m a Software enginner
 
-- 🤝🏽 Looking for Web Development Projects
+- 🤝🏽 Looking for building cli tools and libs 
 
 - ⚡ Eat 🍔 Sleep 😴 Hack 💻 Repeat 🔁
 
