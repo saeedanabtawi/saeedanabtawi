@@ -12,7 +12,7 @@
 
 ## 📝 Blogs
 
-- Personal blog: https://www.linkedin.com/newsletters/7011043196617023488/
+- Software enginnering blog: https://www.linkedin.com/newsletters/7011043196617023488/
 
 ## 👨🏽‍💻 Skills & Tools
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=99e836)
