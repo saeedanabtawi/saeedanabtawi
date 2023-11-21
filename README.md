@@ -2,10 +2,6 @@
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=saeedanabtawi.saeedanabtawi)
 
 <samp>
-  
-- 👨🏽‍💻 I’m a Software enginner
-
-- 🤝🏽 Looking for building cli tools and libs 
 
 - ⚡ Eat 🍔 Sleep 😴 Hack 💻 Repeat 🔁
 
